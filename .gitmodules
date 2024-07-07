@@ -1,0 +1,3 @@
+[submodule "structer"]
+	path = structer
+	url = https://github.com/wackrat/structer
